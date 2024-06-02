@@ -10,8 +10,6 @@
 - **Frameworks/Libraries**: React, Node.js, Express
 - **Tools**: Git, VS Code, npm
 
-## Projects
-
 ## Get in Touch
 - 📧 Email: saishakarki751@gmail.com
 
