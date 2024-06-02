@@ -1,16 +1,18 @@
-## Hi there 👋
+# Hi there, I'm Saisha Karki! 👋
 
-<!--
-**saishakarki/saishakarki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 💻 Computing Student at Itahari International Collage
+- 🌟 Aspiring Web Developer 
+- 🌍 Based in Itahari, Nepal
 
-Here are some ideas to get you started:
+## Skills
+- **Languages**: HTML, CSS, JavaScript, Python, Java
+- **Frameworks/Libraries**: React, Node.js, Express
+- **Tools**: Git, VS Code, npm
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Projects
+
+## Get in Touch
+- 📧 Email: saishakarki751@gmail.com
+
+Feel free to reach out if you want to collaborate on any projects or just want to connect!
